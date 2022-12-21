@@ -1,3 +1,4 @@
+# https://github.com/Chainski/ForceAdmin
 Set-ExecutionPolicy -Scope CurrentUser Undefined -Force
 while($true)
  {
