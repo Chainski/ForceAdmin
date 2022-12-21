@@ -7,7 +7,6 @@
 
 </h1>
 <p align= "center">
-   <img src="https://img.shields.io/github/languages/top/Chainski/ForceAdmin">
    <img src="https://img.shields.io/github/stars/Chainski/ForceAdmin.svg?color=yellow">
    <img src="https://img.shields.io/github/forks/Chainski/ForceAdmin.svg?color=red">
    <img src="https://img.shields.io/github/issues/Chainski/ForceAdmin.svg?color=green">
