@@ -7,6 +7,7 @@
 
 </h1>
 <p align= "center">
+  <img src="https://img.shields.io/github/languages/top/Chainski/ForceAdmin">
    <img src="https://img.shields.io/github/stars/Chainski/ForceAdmin.svg?color=yellow">
    <img src="https://img.shields.io/github/forks/Chainski/ForceAdmin.svg?color=red">
    <img src="https://img.shields.io/github/issues/Chainski/ForceAdmin.svg?color=green">
@@ -22,7 +23,7 @@ The inserted commands are executed via Powershell calling cmd.exe and should use
 This attack will force them to run as admin using the old-fashioned technique of bombardment.
 
 
-## Screenshot
+## Proof of Concept
 ![final](https://user-images.githubusercontent.com/96607632/208804621-0b9805fb-d6d2-4792-8bf9-66e5d6d8420e.gif)
 
 
