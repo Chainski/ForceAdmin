@@ -33,7 +33,7 @@ This attack will force them to run as admin using the old-fashioned technique of
 **This tool is for educational use only, the author will not be held responsible for any misuse of this tool.**
 
 ## Support and Contributions 💲
-My software is open source and free for public use. 
+This tool is open source and free for public use. 
 If you found any of these repos useful and would like to support this project financially, feel free to donate to my bitcoin address.
 
 
