@@ -7,5 +7,5 @@ while($true)
     Start-Process 'powershell' -Verb runas -ArgumentList '-noexit -c whoami /priv';exit
      
 	}
-   catch{}   
+    catch{}   
 }
