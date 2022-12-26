@@ -20,7 +20,6 @@ ForceAdmin is a script that creates infinite UAC pop-ups until the user allows t
 The inserted commands are executed via Powershell calling cmd.exe and should use the batch syntax. 
 This attack will force them to run as admin using the old-fashioned technique of bombardment.
 
-
 ## Proof of Concept
 ![final](https://user-images.githubusercontent.com/96607632/208804621-0b9805fb-d6d2-4792-8bf9-66e5d6d8420e.gif)
 
