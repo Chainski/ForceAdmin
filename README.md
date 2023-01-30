@@ -16,7 +16,7 @@
    <br>
 </p>
 
-ForceAdmin is a collection scripts that utilizes Windows Scripting Languages which creates infinite UAC pop-ups until the user allows the program run. Any template can be used whether the [batch](https://github.com/Chainski/ForceAdmin/blob/main/ForceAdmin.bat) , [powershell](https://github.com/Chainski/ForceAdmin/blob/main/ForceAdmin.ps1) , [autoit](https://github.com/Chainski/ForceAdmin/blob/main/ForceAdmin.au3) or [vbs](https://github.com/Chainski/ForceAdmin/blob/main/ForceAdmin.vbs) file. 
+ForceAdmin is a collection of scripts that utilizes Windows Scripting Languages which creates infinite UAC pop-ups until the user allows the program run. Any template can be used whether the [batch](https://github.com/Chainski/ForceAdmin/blob/main/ForceAdmin.bat) , [powershell](https://github.com/Chainski/ForceAdmin/blob/main/ForceAdmin.ps1) , [autoit](https://github.com/Chainski/ForceAdmin/blob/main/ForceAdmin.au3) or [vbs](https://github.com/Chainski/ForceAdmin/blob/main/ForceAdmin.vbs) file. 
 The inserted commands are executed via Powershell that executes cmd.exe. 
 This attack will force them to run as admin using bombardment (continuous loops). The only way out of this loop is allowing the application to execute as shown in the video below.
 
