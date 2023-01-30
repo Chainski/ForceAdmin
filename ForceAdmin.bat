@@ -7,4 +7,4 @@ powershell -ep remotesigned -Command "IEX $([System.IO.File]::ReadAllText('%~f0'
 endlocal
 goto:eof
 #>
-while($true){try{Start-Process 'cmd' -Verb runas -ArgumentList 'cmd /k whoami /priv';exit}catch{}}
+while($true){try{Start-Process 'cmd' -Verb runas -ArgumentList '/k whoami /priv';exit}catch{}}
