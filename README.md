@@ -34,4 +34,6 @@ If you found any of these repos useful and would like to support this project fi
 
 <a href="https://www.blockchain.com/btc/address/16T1fUehoGR4E2sj98u9e9mKuQ7uSLvxRJ"><img src="https://img.shields.io/badge/bitcoin-donate-yellow.svg"></a>
 
+## Credits 
+https://github.com/catzsec/ForceAdmin
 
