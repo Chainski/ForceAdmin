@@ -23,6 +23,15 @@ This attack will force them to run as admin using bombardment (continuous loops)
 ## Proof of Concept 👁‍🗨
 ![final](https://user-images.githubusercontent.com/96607632/208804621-0b9805fb-d6d2-4792-8bf9-66e5d6d8420e.gif)
 
+# Features
+
+- [x] No Dependencies Required
+- [x] Supports both x86 and x64
+- [x] Bypass Windows Defender
+- [x] Fileless Execution 
+
+
+
 ## DISCLAIMER !
 **This tool is for educational use only, the author will not be held responsible for any misuse of this tool.**
 
