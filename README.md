@@ -27,7 +27,7 @@ This attack will force them to run as admin using bombardment (continuous loops)
 
 - [x] No Dependencies Required
 - [x] Supports both x86 and x64
-- [x] Bypass Windows Defender
+- [x] Bypass AV
 - [x] Fileless Execution 
 
 
