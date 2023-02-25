@@ -24,7 +24,6 @@ This attack will force them to run as admin using bombardment (continuous loops)
 ![final](https://user-images.githubusercontent.com/96607632/208804621-0b9805fb-d6d2-4792-8bf9-66e5d6d8420e.gif)
 
 # Features
-
 - [x] No Dependencies Required
 - [x] Supports both x86 and x64
 - [x] Bypass AV
