@@ -10,7 +10,6 @@
    <img src="https://img.shields.io/github/forks/Chainski/ForceAdmin.svg?color=red">
    <img src="https://img.shields.io/github/issues/Chainski/ForceAdmin.svg?color=red">
     <img src="https://img.shields.io/github/repo-size/Chainski/Forceadmin.svg?label=Repo%20size&style=flat-square">
-
   <img src="https://img.shields.io/endpoint?color=blue&label=views&url=https%3A%2F%2Fhits.dwyl.com%2FChainski%2FForceAdmin.json">
    <br>
    <img src="https://img.shields.io/github/last-commit/Chainski/ForceAdmin?color=blue">
@@ -42,4 +41,4 @@ If you found any of these repos useful and would like to support this project fi
 
 ## Credits 
 https://github.com/catzsec/ForceAdmin
-
+.
