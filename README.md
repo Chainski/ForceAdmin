@@ -35,4 +35,3 @@ This attack will force them to run as admin using bombardment (continuous loops)
 
 ## Credits 
 https://github.com/catzsec/ForceAdmin 
-
