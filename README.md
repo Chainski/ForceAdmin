@@ -9,6 +9,7 @@
    <img src="https://img.shields.io/github/stars/Chainski/ForceAdmin?style=flat&color=blue">
    <img src="https://img.shields.io/github/forks/Chainski/ForceAdmin?style=flat&color=blue">
    <img src="https://img.shields.io/github/issues/Chainski/ForceAdmin.svg?color=blue">
+    <br>
     <img src="https://img.shields.io/github/repo-size/Chainski/Forceadmin.svg?label=Repo%20size&style=flat-square">
   <img src="https://hits.sh/github.com/Chainski/ForceAdmin.svg?label=views&color=0a7bbc">
    <br>
