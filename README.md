@@ -6,7 +6,7 @@
 </h1>
 <p align= "center">
   <img src="https://img.shields.io/github/languages/top/Chainski/ForceAdmin">
-   <img src="https://img.shields.io/github/stars/Chainski/IPLogger?style=flat&color=blue">
+   <img src="https://img.shields.io/github/stars/Chainski/ForceAdmin?style=flat&color=blue">
    <img src="https://img.shields.io/github/forks/Chainski/ForceAdmin?style=flat&color=blue">
    <img src="https://img.shields.io/github/issues/Chainski/ForceAdmin.svg?color=blue">
     <img src="https://img.shields.io/github/repo-size/Chainski/Forceadmin.svg?label=Repo%20size&style=flat-square">
