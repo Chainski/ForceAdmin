@@ -23,6 +23,7 @@ ForceAdmin is a collection of script templates that utilizes Windows Scripting L
 The inserted commands are executed via Powershell that executes cmd.exe. 
 This attack will force them to run as admin using bombardment (continuous loops). The only way out of this loop is allowing the application to execute as shown in the video below.
 
+
 # Proof of Concept 👁‍🗨
 ![final](https://user-images.githubusercontent.com/96607632/208804621-0b9805fb-d6d2-4792-8bf9-66e5d6d8420e.gif)
 
