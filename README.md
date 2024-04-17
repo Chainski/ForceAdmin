@@ -34,4 +34,6 @@ The inserted commands are executed via Powershell that executes cmd.exe. This at
 **This tool is for educational use only, the author will not be held responsible for any misuse of this tool.**
 
 ## Credits 
-https://github.com/catzsec/ForceAdmin 
+https://github.com/catzsec/ForceAdmin
+
+
