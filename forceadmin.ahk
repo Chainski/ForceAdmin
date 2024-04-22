@@ -1,6 +1,7 @@
 /*
 AHK Version: 1.1
  Author : Chainski
+ Project Page : https://github.com/Chainski/ForceAdmin
  Script Function:
 	AHK UAC Forcer
 [~] Force a user to run as admin
