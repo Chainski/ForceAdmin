@@ -33,3 +33,5 @@ The inserted commands are executed via Powershell that executes cmd.exe. This at
 
 ## Credits 
 https://github.com/catzsec/ForceAdmin
+
+
