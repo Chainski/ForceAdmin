@@ -3,7 +3,6 @@
 </p>
 <h1 align="center">
 
-   
 </h1>
 <p align= "center">
    <img src="https://img.shields.io/github/stars/Chainski/ForceAdmin?style=flat&color=blue">
